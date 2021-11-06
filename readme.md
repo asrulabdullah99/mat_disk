@@ -10,6 +10,7 @@
 
 - [x] Pengerjaan Tugas Selama 1 Pekan / Ahad
 - [x] Pengerjaan Secara mandiri
+- [x] Soal ada di dalam slide terakhir di pertemuan Week 5 Relasi dan Fungsi [Materi](https://drive.google.com/file/d/16U4WrVeWFaEFFi5NEpO5eVwuSRRgylnm/view)
 - [x] Link upload tugas di Google Form [Tugas](https://forms.gle/mRptUBHXmSaMzFi46)
 
 ## Tugas 2
