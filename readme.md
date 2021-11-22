@@ -3,7 +3,7 @@
 ## Daftar Isi Tugas Selama 1 Semester
 
 - [Tugas 1](https://github.com/asrulabdullah99/mat_disk#tugas-1)
-- [UTS]()
+- [UTS](https://github.com/asrulabdullah99/mat_disk#uts)
 - [Tugas 3]()
 
 ## Tugas 1
