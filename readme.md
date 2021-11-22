@@ -15,6 +15,11 @@
 
 ## UTS
 
+- [x] Pengerjaannya sampai jam 11.59 WIB / 23.59 WIB
+- [x] Pengerjaan secara mandiri
+- [x] Soal ada di link ini [Soal](https://docs.google.com/document/d/1A7Xoti5xZA4EzZhoopVkTtavk66RWpuG/edit?usp=sharing&ouid=113804619739176014407&rtpof=true&sd=true)
+- [x] Pengumpulan jawaban ada di link ini [Upload UTS](https://forms.gle/FtHohgsDU1KxnLGK6)
+
 ## Tugas 3
 
 ## Tugas 4
